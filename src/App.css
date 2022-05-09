@@ -49,9 +49,10 @@
 
 .navli {
   display: inline;
-  padding: 40px 40px;
+  padding: 50px 50px;
   float: right;
-  font-size: 20px;
+  font-size: 22px;
+  font-family: "Lucida Console", "Courier New", monospace;
   
   
 }
@@ -63,7 +64,8 @@
 }
 
 .link:hover {
-  color: #17BC9B;
+  color: #F24A68;
+  /* #17BC9B*/
   font-weight: bold;
 }
 
@@ -72,17 +74,22 @@
   top: 0px;
   background-color: #313F50;
   width: 100%;
-  height: 100px;
+  height: 130px;
   z-index: 1;
   overflow: hidden;
 }
 
+.logoImg {
+  float: left;
+  margin-left: 5px;
+  margin-top: 5px;
+}
 
 
 /* Other CSS */
 
 .body {
-  padding-top: 100px;
+  padding-top: 130px;
   background-color: #E2E4D1;
   height: 100vh;
 }
