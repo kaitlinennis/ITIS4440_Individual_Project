@@ -1,7 +1,13 @@
 const About = () => {
     return (
-        <div class="body">
-          <h1>About Me</h1>
+        <div className="body">
+
+          <div className="pageContainer">
+            <h1 className="pageMainHeading">About Me</h1>
+            <div className="pageText">
+              <p>Text</p>
+            </div>
+          </div>
         </div>
       )
   };

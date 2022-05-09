@@ -5,14 +5,8 @@ const Layout = () => {
     return (
       <>
         <nav className="navbar">
-        
 
-          <img 
-          className="logoImg"
-          src={PortfolioLogo}
-          height="120px"
-          width="180px"
-          />
+        <h1 className="logoText">Kaitlin's Portfolio</h1>
 
           <ul className="navul">
             <li className="navli">

@@ -1,7 +1,12 @@
 const Home = () => {
     return (
-        <div class="body">
-          <h1>Home</h1>
+        <div className="body">
+            <div className="pageContainer">
+                <h1 className="pageMainHeading">Home</h1>
+                <div className="pageText">
+                    <p>Text</p>
+                </div>
+            </div>
         </div>
       )
   };

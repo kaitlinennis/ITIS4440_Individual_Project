@@ -44,6 +44,7 @@
 .navul {
   list-style-type: none;
   margin: 0;
+  margin-right: 100px;
   
 }
 
@@ -52,14 +53,15 @@
   padding: 50px 50px;
   float: right;
   font-size: 22px;
-  font-family: "Lucida Console", "Courier New", monospace;
-  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /*border: 1px solid white;*/
   
 }
 
 .link {
   text-decoration: none;
   color: white;
+  /*border: 1px solid white;*/
   
 }
 
@@ -85,6 +87,17 @@
   margin-top: 5px;
 }
 
+.logoText {
+  border: 1px solid #F24A68;
+  float: left;
+  color: #17BC9B;
+  padding: 12px 30px;
+  margin-left: 20px;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 
 /* Other CSS */
 
@@ -99,3 +112,23 @@
   padding-top: 100px;
 }
 */
+
+
+/* About Page CSS */
+.pageContainer {
+  width: 90%;
+  margin: 50px auto;
+  border: 1px solid blue;
+}
+
+.pageMainHeading {
+  background-color: #313F50;
+  font-weight: 600;
+  padding: 10px;
+  color: white;
+  bottom: 0px;
+}
+
+.pageText {
+  background-color: white;
+}
