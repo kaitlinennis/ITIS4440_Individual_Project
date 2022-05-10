@@ -73,11 +73,13 @@ const Home = () => {
 
                 <div className="pageText halfText description1">
                 <h2 className="projectName">Driving Directions App</h2>
-                    <p>An Android mobile app I created using various Google APIs. Users can select a start and end location,<br/>
-                    which is implemened with the Google Place Autocomplete API (when users start typing they'll<br/>
-                    receive suggestions). Users can also view directions between two selected, which is implemented using the<br/> 
-                    Google Directions API. Users are then able to see the directions from two selected locations on a map, in<br/>
-                    which two markers and a path line are drawn; the map automatically zooms to these marked directions.</p>
+                    <p>An Android mobile app I created using various Google APIs. Users can<br/>
+                     select a start and end location, which is implemened with the Google<br/>
+                     Place Autocomplete API (when users start typing they'll receive suggestions).<br/>
+                     Users can also view directions between two selected, which is implemented<br/> 
+                     using the Google Directions API. Users are then able to see the directions<br/>
+                     from two selected locations on a map, in which two markers and a path line<br/>
+                     are drawn; the map automatically zooms to these marked directions.</p>
                 </div>
             </div>
 
