@@ -88,7 +88,7 @@
 }
 
 .logoText {
-  border: 1px solid #F24A68;
+  /*border: 1px solid #F24A68;*/
   float: left;
   color: #17BC9B;
   padding: 12px 30px;
@@ -118,7 +118,6 @@
 .pageContainer {
   width: 90%;
   margin: 50px auto;
-  border: 1px solid blue;
 }
 
 .pageMainHeading {
@@ -131,4 +130,28 @@
 
 .pageText {
   background-color: white;
+}
+
+.halfText {
+  width: 55%;
+  border-radius: 25px;
+}
+
+.aboutText {
+  text-align: left;
+  margin-left: 50px;
+  font-size: 19px;
+}
+
+.myPic {
+  float: right;
+  border-radius: 25px;
+}
+
+
+/* Contact Page CSS */
+.contactText {
+  width: 50%;
+  border-radius: 25px;
+  margin: 0 auto;
 }
