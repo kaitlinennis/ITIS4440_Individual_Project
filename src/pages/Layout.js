@@ -6,7 +6,7 @@ const Layout = () => {
       <>
         <nav className="navbar">
 
-        <h1 className="logoText">Kaitlin's Portfolio</h1>
+        <h1 className="logoText">Kaitlin Ennis <span className="diffTextColor">|</span> Portfolio</h1>
 
           <ul className="navul">
             <li className="navli">
