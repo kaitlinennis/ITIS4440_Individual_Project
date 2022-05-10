@@ -107,14 +107,6 @@
   height: 100vh;
 }
 
-/*
-.body.contact {
-  padding-top: 100px;
-}
-*/
-
-
-/* About Page CSS */
 .pageContainer {
   width: 90%;
   margin: 50px auto;
@@ -131,6 +123,9 @@
 .pageText {
   background-color: white;
 }
+
+
+/* About Page CSS */
 
 .halfText {
   width: 55%;
@@ -150,8 +145,13 @@
 
 
 /* Contact Page CSS */
+
 .contactText {
   width: 50%;
   border-radius: 25px;
   margin: 0 auto;
+}
+
+.contactHeading {
+  color: #F24A68;
 }
