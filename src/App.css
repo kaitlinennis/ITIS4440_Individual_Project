@@ -108,7 +108,9 @@
 .body {
   padding-top: 130px;
   background-color: #E2E4D1;
-  height: 100vh;
+  /*height: 100vh;*/
+  min-height: 100vh;
+  background-size: cover;
 }
 
 .pageContainer {
@@ -147,6 +149,13 @@
   border-radius: 25px;
 }
 
+.aboutIntro {
+  text-align: left;
+  margin-left: 50px;
+  color: #F24A68;
+  padding-top: 10px;
+}
+
 
 /* Contact Page CSS */
 
@@ -162,6 +171,7 @@
 
 
 /* Home Page CSS */
+
 .intro {
   font-weight: bold;
   background-color: rgba(224, 255, 255, 0.63);
@@ -170,5 +180,26 @@
   margin: 0 auto;
   border-radius: 10px;
   font-size: 19px;
+}
 
+.mobilePic {
+  float: right;
+  margin-right: 350px;
+  border-radius: 25px;
+}
+
+.description1 {
+  /*margin-top: 100px;*/
+  margin-left: 400px;
+  line-height: 50px;
+  width: 45%;
+  margin-top: 100px;
+}
+
+.projectName {
+  color: #F24A68;
+}
+
+.projectSection {
+  display: inline;
 }

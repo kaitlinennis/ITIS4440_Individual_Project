@@ -18,6 +18,8 @@ const About = () => {
             <div className="pageText halfText">
 
 
+              <h2 className="aboutIntro">An introduction</h2>
+
               <p className="aboutText">Hello! My name is Kaitlin Ennis and I'm currently in my senior year of undergrad at UNC Charlotte.</p>
               <p className="aboutText">I was born and raised in Concord, North Carolina which is where I still reside.</p>
               <p className="aboutText">I'm studying Computer Science with a concentration in Web and Mobile Applications, and I'll be graduating with my Bachelor's degree in May of 2022.</p>
