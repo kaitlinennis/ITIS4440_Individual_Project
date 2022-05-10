@@ -50,6 +50,7 @@ const Home = () => {
                 alt="Shopping List app screenshot"
                 />
 
+
                 <div className="pageText halfText description1">
                 <h2 className="projectName">Shopping List App</h2>
                     <p>An Android mobile app I created using Firebase and Firestore<br/>

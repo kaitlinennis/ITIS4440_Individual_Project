@@ -184,13 +184,12 @@
 
 .mobilePic {
   float: right;
-  margin-right: 350px;
+  margin-right: 200px;
   border-radius: 25px;
 }
 
 .description1 {
-  /*margin-top: 100px;*/
-  margin-left: 400px;
+  margin-left: 100px;
   line-height: 50px;
   width: 45%;
   margin-top: 100px;
