@@ -1,4 +1,4 @@
-Instructions to run my project(in terminal): cd ITIS4440_Individual_Project -> npm install -> npm start
+Instructions to run my project(in terminal):cd ITIS4440_Individual_Project -> cd portfolio -> npm install -> npm start
 
 
 ------------------------------------------------------------------------------------------------
