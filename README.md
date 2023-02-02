@@ -1,6 +1,6 @@
 This was a mini-project that allowed me to practice utilizing a framework that I was unfamiliar with, ReactJS.\
 This is a basic web application that showcases some of my mobile applications I've built. You\
-will also find navigation links to a Contact and About page.\
+will also find navigation links to a Contact and About page.
 
 
 To run this project, type the following lines in your terminal:\
